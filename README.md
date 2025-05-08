@@ -28,13 +28,6 @@ pip install PyQt5
 
 <br>
 
-## :construction: Working Project
-
-<p align="center"> Watch the full demo here :point_down:</p>
-<p align="center"><a href="https://youtu.be/4T8Bq1fzFX0" target="_blank"><img src="./Images/gif.gif" alt="VIDEO OF PROJECT" /></a>&nbsp;</p>
-The video explains the working of the project as well as all its technicalities.<br/><br/>
-Video Link: (https://youtu.be/4T8Bq1fzFX0)
-<br>
 
 ## How to Use:question:
 <!-- To use the application one must have Python 3.8 or above version installed in their machine. -->
